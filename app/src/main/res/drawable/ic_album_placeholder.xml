@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    >
+
+    <!-- Outer Circle -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M12,2a10,10 0,1 1,-10,10a10,10 0,0 1,10,-10z" />
+
+<!--     Inner Music Note-->
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M16,8v5.5c0,0.83 -0.67,1.5 -1.5,1.5s-1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5c0.27,0 0.52,0.07 0.74,0.19v-4.69h-4v5.5c0,0.83 -0.67,1.5 -1.5,1.5s-1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5c0.27,0 0.52,0.07 0.74,0.19v-6.19h5.5v2z" />
+
+</vector>
